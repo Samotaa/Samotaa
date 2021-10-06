@@ -30,7 +30,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-black??style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ANKing1337)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samotaa&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samotaa&layout=compact)
 
 
 
