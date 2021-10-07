@@ -20,7 +20,7 @@
 <h2 aling="left">Languages and Tools:</h2>
 
 <img src="https://c.tenor.com/XGpqtoboIiUAAAAC/the-rock-dwayne-johnson.gif" align="right" height="300"  width="400">
-
+ <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black??style=for-the-badge&logo=HTML5&logoColor=white&)
 ![CSS3](https://img.shields.io/badge/-CSS3-black??style=for-the-badge&logo=CSS3)
