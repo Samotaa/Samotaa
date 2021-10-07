@@ -1,6 +1,6 @@
 <body>
 <div align="center">
-<h1> Hi there 👋, I'm Artyom and im 21 y.o. </h1>
+<h1> Hi there 👋, I'm Artyom and I'm 21 y.o. </h1>
 </div>
 <div align="center">
     <img src="https://c.tenor.com/hV0EnH8wdFEAAAAd/reigen-dab.gif" align="center" width="450">
@@ -17,10 +17,10 @@
 
 ###### (but beer less)
 
-## Languages and Tools:
-
+<h2 aling="left">Languages and Tools:</h2>
+<p>
 <div>
-<img src="https://i.gifer.com/8LIs.gif" align="right" width="300" padding-top="1000px" height="160">
+<img src="https://64.media.tumblr.com/2a64fdacecb1b520147effb4a5dd0b85/tumblr_pq65jlX3Gr1vz5npso1_540.gifv" align="right" height="500"  width="700">
 </div>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black??style=for-the-badge&logo=HTML5&logoColor=white&)
@@ -38,17 +38,15 @@
 ![Docker+](https://img.shields.io/badge/-Docker-black??style=for-the-badge&logo=Docker&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samotaa&layout=compact)
-
+</p>
 
 ## Contant me 
 [![Telegram](https://img.shields.io/badge/-Telegram-black??style=for-the-badge&logo=Telegram&)](https://t.me/anjesus)
 [![Instagram](https://img.shields.io/badge/-Instagram-black??style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anjesus/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black??style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ANKing1337)
 
-
-<div>
+<p>
 <img src="https://i.pinimg.com/originals/4b/65/40/4b65409882f61888f91b9aa8e39391b7.gif" align="center">
-</div>
-
+</p>
 
 </body>
