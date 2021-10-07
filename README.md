@@ -18,10 +18,9 @@
 ###### (but beer less)
 
 <h2 aling="left">Languages and Tools:</h2>
-<p>
-<div>
-<img src="https://64.media.tumblr.com/2a64fdacecb1b520147effb4a5dd0b85/tumblr_pq65jlX3Gr1vz5npso1_540.gifv" align="right" height="500"  width="700">
-</div>
+
+<img src="https://c.tenor.com/XGpqtoboIiUAAAAC/the-rock-dwayne-johnson.gif" align="right" height="300"  width="400">
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black??style=for-the-badge&logo=HTML5&logoColor=white&)
 ![CSS3](https://img.shields.io/badge/-CSS3-black??style=for-the-badge&logo=CSS3)
@@ -38,7 +37,6 @@
 ![Docker+](https://img.shields.io/badge/-Docker-black??style=for-the-badge&logo=Docker&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samotaa&layout=compact)
-</p>
 
 ## Contant me 
 [![Telegram](https://img.shields.io/badge/-Telegram-black??style=for-the-badge&logo=Telegram&)](https://t.me/anjesus)
