@@ -11,11 +11,9 @@
 ## I like:
 - programming 💻
 - beer 🍺 
-- fitness (no emoji for fitness but i can use it 🍷 , because fitness = health = red wine 😈 )
-- japanese culture 👹
+- gym (no emoji for gym but i can use it 🍷 , because gym = health = red wine 😈 )
 - anime 👺
 
-###### (but beer less)
 
 <h2 aling="left">Languages and Tools:</h2>
 
