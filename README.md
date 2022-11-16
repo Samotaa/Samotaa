@@ -45,6 +45,7 @@
 
 <p>
 <img src="https://i.pinimg.com/originals/4b/65/40/4b65409882f61888f91b9aa8e39391b7.gif" align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samotaa)]
 </p>
 
 </body>
