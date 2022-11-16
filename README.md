@@ -34,12 +34,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black??style=for-the-badge&logo=GitHub&logoColor=white)
 ![Docker+](https://img.shields.io/badge/-Docker-black??style=for-the-badge&logo=Docker&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samotaa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samotaa&layout=compact&hide=C#)
     
-## Contant me 
+## Contant me
+[![Lenkedin](https://img.shields.io/badge/-Linkedin-black??style=for-the-badge&logo=Linkedin&)](https://www.linkedin.com/in/artyom-novikevich-a0b249205/)
 [![Telegram](https://img.shields.io/badge/-Telegram-black??style=for-the-badge&logo=Telegram&)](https://t.me/anjesus)
-[![Instagram](https://img.shields.io/badge/-Instagram-black??style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anjesus/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black??style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ANKing1337)
+
 
 <p>
 <img src="https://i.pinimg.com/originals/4b/65/40/4b65409882f61888f91b9aa8e39391b7.gif" align="center">
