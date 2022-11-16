@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black??style=for-the-badge&logo=GitHub&logoColor=white)
 ![Docker+](https://img.shields.io/badge/-Docker-black??style=for-the-badge&logo=Docker&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samotaa)
+
     
 ## Contant me 
 [![Telegram](https://img.shields.io/badge/-Telegram-black??style=for-the-badge&logo=Telegram&)](https://t.me/anjesus)
