@@ -25,6 +25,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-black??style=for-the-badge&logo=SASS&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black??style=for-the-badge&logo=JavaScript)
+![Vue](https://img.shields.io/badge/-Vue-black??style=for-the-badge&logo=Vue)
 ![React](https://img.shields.io/badge/-React-black??style=for-the-badge&logo=React)
 
 ![MySQL](https://img.shields.io/badge/-SQL-black??style=for-the-badge&logo=MySQL&logoColor=white)
